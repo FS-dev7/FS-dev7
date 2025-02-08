@@ -33,7 +33,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=flaviasouza&repo=SEU_REPO_AQUI&theme=radical)](https://github.com/flaviasouza/SEU_REPO_AQUI)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FS-dev7&repo=SEU_REPO_AQUI&theme=radical)](https://github.com/FS-dev7/SEU_REPO_AQUI)
 
 ---
 
