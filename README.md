@@ -16,7 +16,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Chat](https://readme-chat-bubble.vercel.app/?username=FS-dev7&theme=dark)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/waving_hand.gif" width="150px">
+</p>
+
+
 
 
 
