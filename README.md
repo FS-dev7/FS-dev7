@@ -45,6 +45,16 @@
 
 ---
 
+## 🎓 Cursos que já fiz
+- **Informática Básica**
+- **Linguagens de Programação:** HTML, CSS, JavaScript, Python, Java
+- **Programação Web:** Desenvolvimento de páginas com HTML, CSS e JavaScript
+- **Lógica de Programação:** Estruturas condicionais, laços de repetição e algoritmos
+- **Segurança da Informação:** Conceitos básicos de criptografia, autenticação e proteção de dados
+- **Design de Interfaces:** Figma, usabilidade e experiência do usuário (UX/UI)
+- **Análise e Projeto de Sistemas:** Modelagem de dados, UML, levantamento de requisitos
+- **Ferramentas:** Git, VS Code, SQL Server
+
 ## 🌎 Onde Me Encontrar?
 <p align="center">
   <a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
