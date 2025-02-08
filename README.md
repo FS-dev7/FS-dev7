@@ -17,7 +17,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/waving_hand.gif" width="150px">
+  <img src="https://github.com/flaviasouza.png?size=200" style="border-radius: 10px; filter: drop-shadow(5px 5px 5px #000);">
 </p>
 
 
