@@ -1,7 +1,7 @@
 ## 🌟 Flávia Souza | Desenvolvedora em Formação  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7DC6F&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+GitHub!;Estudante+de+Desenvolvimento+de+Sistemas;Apaixonada+por+tecnologia!+%F0%9F%94%A5"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7DC6F&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+GitHub!;Estudante+de+Desenvolvimento+de+Sistemas;Apaixonada+por+tecnologia!+%F0%9F%94%A5"/>
 </p>
 
 ### 📌 Sobre Mim
