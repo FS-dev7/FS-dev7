@@ -11,5 +11,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FS-dev7&theme=dracula)  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+![Snake animation](https://github.com/flaviasouza/flaviasouza/blob/output/github-contribution-grid-snake.svg)
+
 
