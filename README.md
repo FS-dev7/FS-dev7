@@ -11,6 +11,5 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FS-dev7&theme=dracula)  
 
-### 🏆 Troféus do GitHub  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=FS-dev7&theme=radical&no-bg=true)  
