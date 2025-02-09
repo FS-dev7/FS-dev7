@@ -19,7 +19,7 @@
 
 ### 📚 O que estou aprendendo:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,java,php,c#" />
+  <img src="https://skillicons.dev/icons?i=react,java,php,c++" />
 </p>
 
 ---
