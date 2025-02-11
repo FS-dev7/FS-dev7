@@ -45,7 +45,7 @@
 
 ---
 
-## 🎓 Cursos que fiz
+## 🎓 
 - **Informática Básica**
 - **Linguagens de Programação:** HTML, CSS, JavaScript, Python, Java
 - **Programação Web:** Desenvolvimento de páginas com HTML, CSS e JavaScript
